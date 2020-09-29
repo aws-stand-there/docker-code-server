@@ -31,6 +31,8 @@ RUN \
 	pkg-config && \
  echo "**** install runtime dependencies ****" && \
  apt-get install -y \
+        python3 \
+	python3-pip \
 	git \
 	jq \
 	nano \
