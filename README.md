@@ -1,3 +1,5 @@
+<div align="center"><a href='https://ainize.web.app/redirect?git_repo=https://github.com/aws-stand-there/docker-code-server'><img src='https://ainize.ai/images/run_on_ainize_button.svg'></img></a></div>
+
 [![linuxserver.io](https://raw.githubusercontent.com/linuxserver/docker-templates/master/linuxserver.io/img/linuxserver_medium.png)](https://linuxserver.io)
 
 [![Blog](https://img.shields.io/static/v1.svg?color=94398d&labelColor=555555&logoColor=ffffff&style=for-the-badge&label=linuxserver.io&message=Blog)](https://blog.linuxserver.io "all the things you can do with our containers including How-To guides, opinions and much more!")
