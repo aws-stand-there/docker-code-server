@@ -31,6 +31,7 @@ RUN \
 	pkg-config && \
  echo "**** install runtime dependencies ****" && \
  apt-get install -y \
+        htop \
         python3 \
 	python3-pip \
 	git \
